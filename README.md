@@ -17,7 +17,7 @@ The Inventory System project is a Web platform created from my need to have a sy
   - Keywords
   - EditingRoles
   - AccessRoles
--Batch
+- Batch
   - Batch Code
   - Quantity
   - Expiration Date
